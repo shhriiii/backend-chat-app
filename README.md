@@ -41,7 +41,10 @@ Uses only Node’s built-in **net** module
    npm init -y
    ```
 3. server.js
-4. Run the server
+   ```bash
+   Copy the server.js code
+   ```
+5. Run the server
    ```bash
    node server.js
    ```
