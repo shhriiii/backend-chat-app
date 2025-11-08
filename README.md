@@ -36,12 +36,12 @@ Uses only Node’s built-in **net** module
    mkdir simple-socket-chat
    cd simple-socket-chat
    ```
-2. ** Initialize project
+2. Initialize project
    ```bash
    npm init -y
    ```
-3. ** server.js
-4. ** Run the server
+3. server.js
+4. Run the server
    ```bash
    node server.js
    ```
