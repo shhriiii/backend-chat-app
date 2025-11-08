@@ -5,8 +5,7 @@ A lightweight **TCP-based chat server** built using **Node.js** and the built-in
 This server allows multiple users to connect via terminal (`nc`), log in with usernames, and chat in real-time.
 
 ---
-## YouTube Demo Link
-((https://youtu.be/abuLmKTkDBw))
+**YouTube :** [LINK](https://youtu.be/abuLmKTkDBw?si=D4s_ndSd8sjyUQi0)
 
 
 ## Features
